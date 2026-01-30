@@ -3,8 +3,7 @@
 A modern, responsive personal portfolio website built using React.js to showcase my skills, projects, and resume.
 This portfolio is designed to give recruiters and visitors a clear overview of my profile, work, and technical expertise.
 
-🔗 Live Demo: (add your Vercel link here after deployment)
-📄 Resume: Available for download on the website
+<br>
 
 ✨ Features
 
