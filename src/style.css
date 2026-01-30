@@ -80,6 +80,20 @@ button:focus {
 /* --------- */
 /* Navbar Section  */
 /* --------- */
+
+.brand-text {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #c778dd; /* same purple tone as before */
+  letter-spacing: 0.5px;
+  text-decoration: none;
+}
+
+.brand-text:hover {
+  color: #dba8ff; /* light hover color */
+  text-decoration: none;
+}
+
 .sticky {
   background-color: #1b1a2ea9 !important;
   transition: all 0.3s ease-out 0s !important;
