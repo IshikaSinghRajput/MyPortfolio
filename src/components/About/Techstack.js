@@ -1,7 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiNextdotjs, SiSolidity } from "react-icons/si";
-import { FaRust } from "react-icons/fa";
 // import C from "../../Assets/TechIcons/C++.svg";
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
@@ -39,14 +37,14 @@ function Techstack() {
         <img src={Git} alt="git" />
         <div className="tech-icons-text">Git</div>
       </Col>
-   
+
       <Col xs={4} md={2} className="tech-icons">
         <img src={SQL} alt="SQL" />
         <div className="tech-icons-text">Postgresql</div>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Java} alt="haskell" />
+        <img src={Java} alt="java" />
         <div className="tech-icons-text">Java</div>
       </Col>
 
