@@ -1,35 +1,43 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
- 
-</h2>
+🌐 Personal Portfolio Website
 
-<br/>
+A modern, responsive personal portfolio website built using React.js to showcase my skills, projects, and resume.
+This portfolio is designed to give recruiters and visitors a clear overview of my profile, work, and technical expertise.
 
-<center>
+🔗 Live Demo: (add your Vercel link here after deployment)
+📄 Resume: Available for download on the website
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+✨ Features
 
-</center>
+Responsive design (works on desktop, tablet & mobile)
 
-## Built With
+Clean and modern UI
 
-This project was built using these technologies.
+Smooth navigation with React Router
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+Dedicated sections for:
 
-## Features
+Home
 
-**📖 Multi-Page Layout**
+About Me
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+Projects
 
-**📱 Fully Responsive**
+Resume
 
-#
+Resume download option
+
+Optimized for performance and readability
+
+🛠️ Tech Stack
+
+Frontend: React.js
+
+Styling: CSS3
+
+Routing: React Router DOM
+
+Build Tool: Create React App
+
+Deployment: Vercel
+
+Code Editor: VS Code
